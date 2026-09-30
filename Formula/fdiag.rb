@@ -1,8 +1,8 @@
 class Fdiag < Formula
   desc "Flow and sequence diagram CLI and MCP server (.flow, .msd, Mermaid)"
   homepage "https://github.com/PointBlueTechnology/homebrew-tap"
-  url "https://github.com/PointBlueTechnology/homebrew-tap/releases/download/fdiag-v0.3.0/fdiag-0.3.0-macos.tar.gz"
-  sha256 "73021a405ecf540577462603b40814a9bfce35eb5dfe3f7b59a9d7836ca8b64e"
+  url "https://github.com/PointBlueTechnology/homebrew-tap/releases/download/fdiag-v0.4.0/fdiag-0.4.0-macos.tar.gz"
+  sha256 "57309eebd0d6ed8b7db9f58f8dfd4a6ffc90daba205c022cd2b2018379b8f379"
 
   depends_on macos: :tahoe
 
